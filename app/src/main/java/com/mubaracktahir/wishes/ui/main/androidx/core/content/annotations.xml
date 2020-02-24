@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.core.content.ContextCompat'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
